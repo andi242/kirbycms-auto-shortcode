@@ -16,3 +16,6 @@ if you are using Font Awesome or similar you can come up with this:
 ## Usage
 
 Just use the individual shortcodes you create and Kirby will replace them with the code defined in config.php in any text that is processed with kirbytext();
+
+## credits
+based on http://getkirby.com/docs/advanced/kirbytext#kirbytext-filters by https://github.com/bastianallgeier / https://github.com/getkirby 
