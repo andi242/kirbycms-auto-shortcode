@@ -1,4 +1,7 @@
 <?php
+  // use a local config.php
+  include ('config.php');
+  
   kirbytext::$pre[] = function($kirbytext, $value) {
 	  $scodes = c::get('kirbytext.shortcodes', array());
 	  $values   = array_values($scodes);
