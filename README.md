@@ -3,7 +3,7 @@
 ## configuration
 
 1. copy "shortcode/shortcode.php" to /site/plugins in your Kirby setup.
-2. add shortcode values to your /site/config/config.php
+2. add shortcode values to your plugin config.php
 
 if you are using Font Awesome or similar you can come up with this:
 
