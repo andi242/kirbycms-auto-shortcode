@@ -2,8 +2,8 @@
 
 ## configuration
 
-1. copy "shortcode/shortcode.php" to /site/plugins in your Kirby setup.
-2. add shortcode values to your plugin config.php
+1. just copy the folder `shortcode` to /site/plugins in Kirby.
+2. add custom shortcode values to `/site/plugins/shortcode/config.php`
 
 if you are using Font Awesome or similar you can come up with this:
 
